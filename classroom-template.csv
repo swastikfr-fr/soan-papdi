@@ -1,0 +1,10 @@
+type,login,project,text,number,status
+project,,team-alpha,Web app team,0,
+project,,team-beta,Data science team,0,
+contributor,your-github-username,,,200,
+contributor,classmate-one,,,45,
+contributor,classmate-two,,,10,
+pr,your-github-username,team-alpha,Add login page,300,merged
+pr,classmate-one,team-alpha,Fix navbar bug,120,merged
+pr,classmate-two,team-beta,Update README,20,open
+vouch,classmate-one,team-alpha,Reliable teammate who reviews carefully,,
